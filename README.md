@@ -1,0 +1,1 @@
+# Qt5_Intermediate_4.3_FileSystem_QFileInfo
